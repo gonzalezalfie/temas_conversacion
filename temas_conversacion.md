@@ -30,115 +30,120 @@
 
 16. ¿para qué sirve la política?
 
-17. ¿es buena la democracia?
+17. ¿qué dice la opinión política sobre las personas?
 
-18. ¿cuál es el mejor sistema de organización social?
+18. ¿es buena la democracia?
 
-19. ¿es bueno el patriotismo?
+19. ¿cuál es el mejor sistema de organización social?
 
-20. la monarquía del pasado y la monarquía actual
+20. ¿es bueno el patriotismo?
 
-21. ¿cuál ha sido la mejor época en la historia de la humanidad?
+21. la monarquía del pasado y la monarquía actual
 
-22. ranking de países
+22. ¿cuál ha sido la mejor época en la historia de la humanidad?
 
-23. ventajas y desventajas de vivir en países pobres y ricos
+23. ranking de países
 
-24. la vida en los países y las velocidades de las bicicletas
+24. ventajas y desventajas de vivir en países pobres y ricos
 
-25. ¿el petróleo es malo?
+25. la vida en los países y las velocidades de las bicicletas
 
-26. ¿cómo combatir el daño ambiental?
+26. ¿el petróleo es malo?
 
-27. ¿la vida en el futuro será en Marte?
+27. ¿cómo combatir el daño ambiental?
 
-28. ¿cómo ayuda el feminismo a las mujeres?
+28. ¿la vida en el futuro será en Marte?
 
-29. ¿las culturas valen lo mismo?
+29. ¿cómo ayuda el feminismo a las mujeres?
 
-30. ¿Estados Unidos es un país malo?
+30. ¿la naturaleza es machista?
 
-31. ¿por qué Europa ya no es el protagonista del mundo?
+31. ¿las culturas valen lo mismo?
 
-32. ¿quiénes son las nuevas potencias en el mundo?
+32. ¿Estados Unidos es un país malo?
 
-33. ¿quiénes son los malvados en el mundo?
+33. ¿por qué Europa ya no es el protagonista del mundo?
 
-34. ¿para qué sirve el dinero?
+34. ¿quiénes son las nuevas potencias en el mundo?
 
-35. ¿el capitalismo es bueno?
+35. ¿quiénes son los malvados en el mundo?
 
-36. ¿por qué es atractivo el socialismo?
+36. ¿para qué sirve el dinero?
 
-37. ¿el socialismo hace egoístas a las personas?
+37. ¿el capitalismo es bueno?
 
-38. el aborto es ¿malo? ¿práctico?
+38. ¿la desigualdad es mala?
 
-39. ¿consumir drogas está mal?
+39. ¿por qué es atractivo el socialismo?
 
-40. ¿cuál es el valor de la religión?
+40. ¿el socialismo hace egoístas a las personas?
 
-41. ¿por qué se busca una religión?
+41. el aborto es ¿malo? ¿práctico?
 
-42. ¿existe Dios?
+42. ¿consumir drogas está mal?
 
-43. ¿quiénes son los sacerdotes del siglo XXI?
+43. ¿cuál es el valor de la religión?
 
-44. ¿cuáles son las ventajas y desventajas de la televisión?
+44. ¿por qué se busca una religión?
 
-45. ¿es necesario estar informado hoy en día?
+45. ¿existe Dios?
 
-46. ¿se tienen más amigos en la actualidad?
+46. ¿quiénes son los sacerdotes del siglo XXI?
 
-47. ¿qué es la amistad?
+47. ¿cuáles son las ventajas y desventajas de la televisión?
 
-48. ¿ventajas y desventajas de las redes sociales?
+48. ¿es necesario estar informado hoy en día?
 
-49. ¿por qué las redes sociales son tan populares?
+49. ¿se tienen más amigos en la actualidad?
 
-50. ¿por qué los famosos son famosos?
+50. ¿qué es la amistad?
 
-51. el antiintelectualismo en la época moderna
+51. ¿ventajas y desventajas de las redes sociales?
 
-52. ¿por qué la gente cree cada vez menos en la iglesia?
+52. ¿por qué las redes sociales son tan populares?
 
-53. ¿el mundo es menos espiritual hoy en día?
+53. ¿por qué los famosos son famosos?
 
-54. principio de los escépticos: creencia = evidencia + gusto
+54. el antiintelectualismo en la época moderna
 
-55. principio 2/3
+55. ¿por qué la gente cree cada vez menos en la iglesia?
 
-56. ¿las matemáticas son importantes?
+56. ¿el mundo es menos espiritual hoy en día?
 
-57. ¿para qué sirve la cultura?
+57. principio de los escépticos: creencia = evidencia + gusto
 
-58. ¿es más importante la Mona Lisa o el transistor?
+58. principio 2/3
 
-59. ¿qué es la felicidad?
+59. ¿las matemáticas son importantes?
 
-60. ¿para qué sirve la felicidad?
+60. ¿para qué sirve la cultura?
 
-61. ¿por qué es importante la comunicación?
+61. ¿es más importante la Mona Lisa o el transistor?
 
-62. ¿cuál es la relación entre las emociones y la razón?
+62. ¿qué es la felicidad?
 
-63. ¿qué es el amor? (enfoque evolutivo)
+63. ¿para qué sirve la felicidad?
 
-64. ¿qué es el amor? (enfoque existencial)
+64. ¿por qué es importante la comunicación?
 
-65. ¿cómo se interpreta la realidad?
+65. ¿cuál es la relación entre las emociones y la razón?
 
-66. ¿por qué las despedidas son incómodas?
+66. ¿qué es el amor? (enfoque evolutivo)
 
-67. ¿qué es la inteligencia?
+67. ¿qué es el amor? (enfoque existencial)
 
-68. inteligencia, conocimientos, mentalidad: ¿cuál es más importante?
+68. ¿cómo se interpreta la realidad?
 
-69. ¿cuál es la relación entre la naturaleza y la inteligencia?
+69. ¿por qué las despedidas son incómodas?
 
-70. teoría de la evolución (teoría clásica)
+70. ¿qué es la inteligencia?
 
-71. teoría de la evolución (teoría moderna)
+71. inteligencia, conocimientos, mentalidad: ¿cuál es más importante?
 
-72. ¿hacia dónde tiene que ir la humanidad?
+72. ¿cuál es la relación entre la naturaleza y la inteligencia?
 
+73. teoría de la evolución (teoría clásica)
+
+74. teoría de la evolución (teoría moderna)
+
+75. ¿hacia dónde tiene que ir la humanidad?
