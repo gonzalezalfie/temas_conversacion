@@ -122,25 +122,27 @@
 
 62. What is happiness?
 
-63. Why is communication important?
+63. What is the function of happiness?
 
-64. What is the relationship between emotions and reason?
+64. Why is communication important?
 
-65. What is love? (evolution approach)
+65. What is the relationship between emotions and reason?
 
-66. What is love? (existential approach)
+66. What is love? (evolution approach)
 
-67. How does one interpret reality?
+67. What is love? (existential approach)
 
-68. Why is farewell so uncomfortable?
+68. How does one interpret reality?
 
-69. What is intellience?
+69. Why is farewell so uncomfortable?
 
-70. Intelligence, knowledge, mentality: which one is more important?
+70. What is intellience?
 
-71. What is the relationship between nature and intelligence?
+71. Intelligence, knowledge, mentality: which one is more important?
 
-72. Theory of Evolution (classical theory)
+72. What is the relationship between nature and intelligence?
+
+73. Theory of Evolution (classical theory)
 
 74. Theory of Evolution (modern theory)
 
