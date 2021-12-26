@@ -50,7 +50,7 @@
 
 26. Is oil bad?
 
-27. How to repair environmental damage?
+27. How can we repair environmental damage?
 
 28. Will life in the future be on Mars?
 
@@ -136,7 +136,7 @@
 
 69. Why is farewell so uncomfortable?
 
-70. What is intellience?
+70. What is intelligence?
 
 71. Intelligence, knowledge, mentality: which one is more important?
 
