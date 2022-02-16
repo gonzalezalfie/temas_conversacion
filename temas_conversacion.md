@@ -62,7 +62,7 @@
 
 32. ¿Estados Unidos es un país malo?
 
-33. ¿por qué Europa ya no es el protagonista del mundo?
+33. ¿por qué Europa ya no es la protagonista del mundo?
 
 34. ¿quiénes son las nuevas potencias en el mundo?
 
